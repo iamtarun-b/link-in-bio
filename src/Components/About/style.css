@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+.breadcrumb{
+    padding: 0.1em 2em;
+    font-family: 'Open Sans', sans-serif;
+    /* border: 1px solid red; */
+}
+
+.breadcrumb button{
+    margin: 1.5em 0;
+    padding: 0.4em;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 0.3em;
+    background-color: #C64242;
+    border:2px solid #C64242;
+}
+
+.breadcrumb button p{
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+}
+
+.about-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0.7em 2em;
+    /* border: 1px solid red; */
+}
+
+.card{
+    word-wrap: break-word;
+    /* border: 1px solid red; */
+}
+
+.card h2{
+    font-weight: bold;
+    font-size: 2rem;
+    color: #ee3030;
+}
+
+.card h3{
+    color: #d62a2a;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-top: 3px;
+}
+
+.card p{
+    font-size: 1rem;
+    line-height: 150%;
+    margin-bottom: 5px;
+}
+
+.card ul{
+    padding: 0 1.5em;
+    /* border: 1px solid red; */
+}
+
+.card ul li{
+    list-style: square;
+    font-weight: 500;
+}

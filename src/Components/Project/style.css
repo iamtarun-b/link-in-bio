@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+.project-container{
+    border-bottom: 1px solid #fff;
+    width: 20em;
+    padding: 1em;
+    margin: 0.4em auto;
+    color: #fff;
+    text-align: start;
+    /* border: 1px solid #fff; */
+}
+
+.project-container h3{
+    font-size: 1.2rem;
+}
+
+.project-container p{
+    font-size: 0.9rem;
+    line-height: 140%;
+    word-wrap: break-word;
+    margin-bottom: 3px;
+}
+
+.project-link-button{
+    margin-top: 0.3em;
+    padding: 0.7em;
+    border-radius: 0.7em;
+    font-size: 0.8rem;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #C64242;
+    border:2px solid #C64242;
+    cursor: pointer;
+}
+
+.project-link-button a{
+    text-decoration: none;
+    color: white;
+}
