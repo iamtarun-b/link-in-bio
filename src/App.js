@@ -7,7 +7,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/link-in-bio" element={<Home />}> </Route>
-        <Route path="/about" element={<About />}> </Route>
+        <Route path="/link-in-bio/about" element={<About />}> </Route>
       </Routes>
     </BrowserRouter>
   );

@@ -40,7 +40,7 @@ export default function Home() {
         <h1>Tarun Bhandari</h1>
         <p> Looking for the opportunity to show case my skills </p>
         <button>
-          <Link to="/about">About Me</Link>
+          <Link to="/link-in-bio/about">About Me</Link>
         </button>
       </div>
 
