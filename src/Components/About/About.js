@@ -12,7 +12,7 @@ export default function About() {
     <>
       <div className="breadcrumb">
         <button>
-          <Link to="/" style={style}><p>Home</p></Link>
+          <Link to="/link-in-bio" style={style}><p>Home</p></Link>
         </button>
       </div>
 
